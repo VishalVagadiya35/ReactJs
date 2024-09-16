@@ -118,7 +118,7 @@ function Section7() {
                   <div className="pc__content">
                     <div className="pc__body">
                       <div className="pc__img" style={{ '--ratio-percent': '95.23809523809523%' }}>
-                        <Link>
+                        <Link to="/product">
                           <img src="//bitetoothpastebits.com/cdn/shop/files/pdp-product-card-desktop-silver-case-open-no-bg.png?v=1705442119&width=550" alt="Cinnamon Toothpaste Bits" className="js-pc-img" />
                           </Link>
                       </div>
