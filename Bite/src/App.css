@@ -9506,6 +9506,7 @@ h4.pv-header__details-heading.text-btn{
 
   .account-container {
     width: fit-content;
+    min-width: 420px;
     margin: 50px auto;
     padding: 20px;
     border: 1px solid #ccc;
