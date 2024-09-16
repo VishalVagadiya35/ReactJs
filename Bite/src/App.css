@@ -5250,6 +5250,7 @@ body {
     flex: 1;
     font-size: 11px;
     line-height: 1.1
+
 }
 
 .pc__ppm {
@@ -7435,7 +7436,6 @@ body {
 
     .pc__info {
         background-color: rgba(255, 255, 255, .9);
-        -webkit-backdrop-filter: blur(4px);
         backdrop-filter: blur(4px);
         border: .5px solid #131313;
         border-bottom: 0;
@@ -7444,9 +7444,7 @@ body {
         padding: 0 12px;
         position: absolute;
         visibility: hidden;
-        -webkit-transform: translate3d(0, 100%, 0);
         transform: translate3d(0, 100%, 0);
-        -webkit-transition: visibility, opacity .2s .1s, -webkit-transform .3s;
         transition: visibility, opacity .2s .1s, transform .3s, -webkit-transform .3s;
         width: 100%
     }
@@ -9124,7 +9122,7 @@ button[type=button] {
   
   /* Product Info */
   .pc__info {
-    padding: 16px; /* Spacing inside the card */
+    /* padding: 16px; Spacing inside the card */
     text-align: center; /* Center align text */
   }
   
