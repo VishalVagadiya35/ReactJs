@@ -26,7 +26,7 @@ function Section7() {
                   <div className="pc__content">
                     <div className="pc__body">
                       <div className="pc__img" style={{ '--ratio-percent': '95.23809523809523%' }}>
-                        <Link to="/shop">
+                        <Link to="/product">
                           <img src="//bitetoothpastebits.com/cdn/shop/files/pc-tpb-ff-4oz-mint-no-bg.webp?v=1702985943" alt="Toothpaste Bits Fluoride-Free" className="js-pc-img" />
                           </Link>
                       </div>
@@ -72,7 +72,7 @@ function Section7() {
                   <div className="pc__content">
                     <div className="pc__body">
                       <div className="pc__img" style={{ '--ratio-percent': '95.23809523809523%' }}>
-                        <Link to="/shop">
+                        <Link to="/product">
                           <img src="https://bitetoothpastebits.com/cdn/shop/files/pc-tpb-wf-2oz-mint-fluoride-no-bg.png?v=1701367239&width=550" alt="Mint Toothpaste Bits" className="js-pc-img" />
                           </Link>
                       </div>
@@ -106,7 +106,7 @@ function Section7() {
               <div className="feat-products__item">
                 <article className="js-pc pc pc--toothpaste" itemscope itemtype="http://schema.org/Product" data-product-handle="cinnamon-toothpaste-bits-4oz" data-product-id="7185405444203">
                   <meta itemprop="name" content="Cinnamon Toothpaste Bits - 4oz" />
-                  <Link to="/shop"></Link>
+                  <Link to="/product"></Link>
                   <meta itemprop="url" content="https://bitetoothpastebits.com/products/cinnamon-toothpaste-bits-4oz?variant=41196936691819" />
                   <div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
                     <meta itemprop="priceCurrency" content="USD" />
@@ -164,7 +164,7 @@ function Section7() {
                   <div className="pc__content">
                     <div className="pc__body">
                       <div className="pc__img" style={{ '--ratio-percent': '95.23809523809523%' }}>
-                        <Link to="/shop">
+                        <Link to="/product">
                           <img src="//bitetoothpastebits.com/cdn/shop/files/pc-mouthwash-no-bg.png?v=1701372644&width=550" alt="Charcoal Toothpaste Bits" className="js-pc-img" />
                           </Link>
                       </div>
