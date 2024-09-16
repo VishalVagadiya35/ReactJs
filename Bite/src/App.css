@@ -5247,8 +5247,6 @@ body {
 }
 
 .pc__reviews-count {
-    -webkit-box-flex: 1;
-    -ms-flex: 1;
     flex: 1;
     font-size: 11px;
     line-height: 1.1

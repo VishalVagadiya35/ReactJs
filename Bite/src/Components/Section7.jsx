@@ -40,8 +40,8 @@ function Section7() {
                             <i className="icon icon--star" role="presentation"></i>
                             <i className="icon icon--star" role="presentation"></i>
                             <i className="icon icon--star" role="presentation"></i>
-                          </div>
                           <div className="pc__reviews-count">21,577 Reviews</div>
+                          </div>
                         </div>
                       </div>
                     </div>
@@ -86,8 +86,8 @@ function Section7() {
                             <i className="icon icon--star" role="presentation"></i>
                             <i className="icon icon--star" role="presentation"></i>
                             <i className="icon icon--star" role="presentation"></i>
-                          </div>
                           <div className="pc__reviews-count">15,000 Reviews</div>
+                          </div>
                         </div>
                       </div>
                     </div>
@@ -132,8 +132,8 @@ function Section7() {
                             <i className="icon icon--star" role="presentation"></i>
                             <i className="icon icon--star" role="presentation"></i>
                             <i className="icon icon--star" role="presentation"></i>
-                          </div>
                           <div className="pc__reviews-count">10,500 Reviews</div>
+                          </div>
                         </div>
                       </div>
                     </div>
@@ -178,8 +178,8 @@ function Section7() {
                             <i className="icon icon--star" role="presentation"></i>
                             <i className="icon icon--star" role="presentation"></i>
                             <i className="icon icon--star" role="presentation"></i>
-                          </div>
                           <div className="pc__reviews-count">5,000 Reviews</div>
+                          </div>
                         </div>
                       </div>
                     </div>
