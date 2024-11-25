@@ -5,57 +5,62 @@
     <link rel="icon" type="image/svg+xml" href="//bitetoothpastebits.com/cdn/shop/t/305/assets/favicon-32_32x32.png?v=116657660238917921101722803637" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     
-   <meta
+    <!-- Meta Tags for SEO and Social Sharing -->
+    <meta
           name="description"
           content="Discover high-quality safety shoes, helmets, and vests designed to keep you safe at work. ProtectPro's safety gear is trusted by professionals worldwide."
         />
 
-        <meta property="og:url" content="https://nextjs-sitemap-nine.vercel.app" />
-        <meta property="og:type" content="website" />
-        <meta
+    <meta property="og:url" content="https://nextjs-sitemap-nine.vercel.app" />
+    <meta property="og:type" content="website" />
+    <meta
           property="og:title"
           content="ProtectPro | Premium Industrial Safety Solutions"
         />
-        <meta
+    <meta
           property="og:description"
           content="Discover high-quality safety shoes, helmets, and vests designed to keep you safe at work. ProtectPro's safety gear is trusted by professionals worldwide."
         />
-        <meta
+    <meta
           property="og:image"
           content="https://nextjs-sitemap-nine.vercel.app/images/logoMamuji.jpeg"
         />
-        <meta property="og:image:width" content="670" />
-        <meta property="og:image:height" content="534" />
+    <meta property="og:image:width" content="670" />
+    <meta property="og:image:height" content="534" />
 
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta property="twitter:domain" content="protectpro.in" />
-        <meta property="twitter:url" content="https://nextjs-sitemap-nine.vercel.app" />
-        <meta
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta property="twitter:domain" content="protectpro.in" />
+    <meta property="twitter:url" content="https://nextjs-sitemap-nine.vercel.app" />
+    <meta
           name="twitter:title"
           content="ProtectPro | Premium Industrial Safety Solutions"
         />
-        <meta
+    <meta
           name="twitter:description"
           content="Discover high-quality safety shoes, helmets, and vests designed to keep you safe at work. ProtectPro's safety gear is trusted by professionals worldwide."
         />
-        <meta
+    <meta
           name="twitter:image"
-          content="https://www.protectpro.in/images/logoMamuji.jpeg"
+          content="https://nextjs-sitemap-nine.vercel.app/images/logoMamuji.jpeg"
         />
     
-    <title>Bite</title>
+    <title>ProtectPro | Premium Industrial Safety Solutions</title>
   </head>
   <body>
+    <!-- Page Content (Rendered via React) -->
     <div id="root"></div>
-    <script type="module" src="/src/main.jsx"></script>
-  </body>
-  <script>
-    document.querySelectorAll('.js-acc-btn').forEach(button => {
-  button.addEventListener('click', function () {
-    const expanded = this.getAttribute('aria-expanded') === 'true';
-    this.setAttribute('aria-expanded', !expanded);
-  });
-});
 
-  </script>
+    <!-- Load React App -->
+    <script type="module" src="/src/main.jsx"></script>
+
+    <!-- Accessibility Toggle Script -->
+    <script>
+      document.querySelectorAll('.js-acc-btn').forEach(button => {
+        button.addEventListener('click', function () {
+          const expanded = this.getAttribute('aria-expanded') === 'true';
+          this.setAttribute('aria-expanded', !expanded);
+        });
+      });
+    </script>
+  </body>
 </html>
